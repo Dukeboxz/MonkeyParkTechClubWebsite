@@ -134,3 +134,49 @@ seeFutureDates:hover
   height: 100%;
 
 }
+/* clubOrganisers.html    */
+
+.volunteerContainer
+{
+  float: left;
+  margin-left: 10%;
+  width: 60%;
+  margin-bottom: 20px;
+
+}
+.headshot
+{
+  float: left;
+  margin-left: 10%;
+  width: 20%;
+  height: 20%;
+  margin-top: 5%;
+
+}
+.nameAndDes
+{
+  float: left;
+  width: 60%;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.volunteerName
+{
+  font-size: 120%;
+  float: left;
+  margin-left: 5%;
+  margin-top: 5%;
+
+}
+.volunteerDescription
+{
+  clear: left;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+.volunteerCallToAction
+{
+  float: left;
+  margin-left: 10%;
+  width: 60%;
+}
