@@ -66,6 +66,7 @@ position:  absolute;
 {
   float: left;
   border: 2px solid black;
+  width: 100%;
 
 
 }
@@ -218,4 +219,37 @@ seeFutureDates:hover
 
 .accordionActive:after {
     content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+/* what we do */
+.Activity
+{
+  float: left;
+  width: 80%;
+  margin-left: 5%;
+  padding: 10px 10px;
+}
+
+.ActivityImage
+{
+  float: left;
+  width: 40%;
+  height: 90%;
+
+  border: 1px solid black;
+
+}
+.ActivityText
+{
+  float: left;
+  margin-left: 10%;
+  width: 30%;
+  height: 90%;
+}
+
+/* contact us */
+.contactForm
+{
+  margin-left: 10px;
+  margin-bottom: 20px;
 }
